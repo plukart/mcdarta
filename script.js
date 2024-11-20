@@ -2,7 +2,7 @@ const songsList = [
     {
         name: "Intro",
         artist: "Mc darta",
-        src: "assets/1.wav",
+        src: "assets/1.mp3",
         cover: "assets/1.jpg"
     },
     {
@@ -56,7 +56,7 @@ const songsList = [
     {
         name: "EXTRACCION MENTAL",
         artist: "Mc darta",
-        src: "assets/10.wav",
+        src: "assets/10.mp3",
         cover: "assets/3.jpg"
     },
     {
