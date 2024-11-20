@@ -134,3 +134,17 @@ body{
         transform: rotateZ(360deg);
     }
 }
+
+
+@media (max-width: 768px) {
+    .container .controls{
+        width: 100%;
+        
+    
+    }
+
+    .circle{
+        display: none;
+    }
+}
+
